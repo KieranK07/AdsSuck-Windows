@@ -1,27 +1,6 @@
 
    <h2> <div align="center"><b> AdsSuck for Windows </b></div> </h2>
 
-<h1>System requirements</h1>
-
-- <strong>OS: Windows 7-11</strong>
-- <strong>Spotify: latest official [versions](https://cutt.ly/8EH6NuH)</strong>
-- <strong>For Windows Desktop only (Microsoft store version is not suitable).</strong>
-- <strong>PowerShell: version 5 and above recommended</strong>
-
-<h1>Features</h1>
-
-- <strong>Blocks all banner, video and audio ads in the client</strong>
-- <strong>Unlocks the skip function of any track</strong>
-- <strong>Hiding podcasts, episodes and audiobooks from the homepage (optional)</strong>
-- <strong>Block Spotify automatic updates (optional)</strong>
-- <strong>Automatic clearing of [audio cache](https://github.com/KieranK07/AdsSuck-Windows/discussions/2) (optional)</strong>
-- <strong>More experimental features have been activated ([see the full list](https://github.com/KieranK07/AdsSuck-Windows/discussions/50))</strong>
-- <strong>Disabled Sentry (Prevented Sentry from sending console log/error/warning to Spotify developers)</strong>
-- <strong>Disabled logging (Stopped various elements to log user interaction)</strong>
-- <strong>Removed RTL rules (Removed all right-to-left CSS rules to simplify CSS files)</strong>
-- <strong>Code minification</strong>
-
-<h1>Fast installation / Update</h1>
 <h3>Choose installation type:</h3>
 <details>
 <summary><small>Usual installation (New theme)</small></summary><p>
@@ -197,10 +176,4 @@ or
 
 - Reinstall Spotify ([Full uninstall Spotify](https://github.com/KieranK07/Uninstall-Spotify) recommended)
 
-<h1>FAQ</h1>
-
-- Read [FAQ](https://telegra.ph/AdsSuck-Windows-FAQ-09-19)
-
-<h1>Credits</h1>
-
-- This repository partially uses <a href="https://github.com/mrpond/BlockTheSpot">BlockTheSpot</a>, and also some tricks were taken from <a href="https://github.com/khanhas/spicetify-cli">spicetify-cli</a>, many thanks to the contributors. Note: this is a partial fork of SpotX.
+Note: this is a partial fork of SpotX
